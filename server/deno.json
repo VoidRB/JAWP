@@ -1,0 +1,9 @@
+{
+	"tasks": {
+		"dev": "deno run --watch --allow-net main.ts"
+	},
+	"imports": {
+		"@oak/oak": "jsr:@oak/oak@^17.2.0",
+		"@sqlite/sqlite": "https://deno.land/x/sqlite@v3.9.1/mod.ts"
+	}
+}
