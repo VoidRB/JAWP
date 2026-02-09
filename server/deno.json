@@ -4,6 +4,7 @@
 	},
 	"imports": {
 		"@oak/oak": "jsr:@oak/oak@^17.2.0",
-		"@sqlite/sqlite": "https://deno.land/x/sqlite@v3.9.1/mod.ts"
+		"@sqlite/sqlite": "https://deno.land/x/sqlite@v3.9.1/mod.ts",
+		"@zod/zod": "https://deno.land/x/zod@v3.25/mod.ts"
 	}
 }
